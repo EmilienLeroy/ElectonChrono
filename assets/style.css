@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#chrono input{
+    border: none;
+    width: 30px;
+    text-align: center;
+    font-size: 25px;
+    background-color: transparent;
+}
+
+#chrono{
+    width: 270px;
+}
+
+#chrono div{
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 25px;
+}
